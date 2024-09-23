@@ -1,0 +1,79 @@
+﻿  Game.cpp
+F:\PUTTER CARD GAME\C++ Tester\PutterVG\PutterVG\Game.cpp(5,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+F:\PUTTER CARD GAME\C++ Tester\PutterVG\PutterVG\Game.cpp(15,71): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+F:\PUTTER CARD GAME\C++ Tester\PutterVG\PutterVG\Game.cpp(15,51): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+F:\PUTTER CARD GAME\C++ Tester\PutterVG\PutterVG\Game.cpp(22,11): warning C4305: 'return': truncation from 'int' to 'bool'
+F:\PUTTER CARD GAME\C++ Tester\PutterVG\PutterVG\Game.cpp(29,11): warning C4305: 'return': truncation from 'int' to 'bool'
+F:\PUTTER CARD GAME\C++ Tester\PutterVG\PutterVG\Game.cpp(58,80): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+F:\PUTTER CARD GAME\C++ Tester\PutterVG\PutterVG\Game.cpp(59,48): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+F:\PUTTER CARD GAME\C++ Tester\PutterVG\PutterVG\Game.cpp(60,35): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+F:\PUTTER CARD GAME\C++ Tester\PutterVG\PutterVG\Game.cpp(61,105): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+F:\PUTTER CARD GAME\C++ Tester\PutterVG\PutterVG\Game.cpp(124,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\PUTTER CARD GAME\C++ Tester\PutterVG\PutterVG\Game.cpp(176,52): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+F:\PUTTER CARD GAME\C++ Tester\PutterVG\PutterVG\Game.cpp(175,92): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+F:\PUTTER CARD GAME\C++ Tester\PutterVG\PutterVG\Game.cpp(310,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  PutterVG.vcxproj -> F:\PUTTER CARD GAME\C++ Tester\PutterVG\x64\Debug\PutterVG.exe
