@@ -184,7 +184,7 @@ void Game::mouseClicked(sf::Event event)
 		{
 			if (playDPos.y < camera_click.y && camera_click.y < (playDPos.y + (cardDimensions.y * cardScale)))
 			{
-				std::cout << "Clicking Play Card" << std::endl;
+				std::cout << "Clicking the Play Card Deck" << std::endl;
 			}
 		}
 	}	
